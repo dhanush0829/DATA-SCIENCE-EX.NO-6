@@ -26,6 +26,7 @@ df=pd.read_csv("titanic_dataset.csv")
 df.head()
 ```
 <img width="949" height="162" alt="image" src="https://github.com/user-attachments/assets/0973f5d4-cae9-4972-9301-62aeabc6f4db" />
+
 ```py
 x=[1,2,3,4,5]
 y=[3,6,2,7,1]
